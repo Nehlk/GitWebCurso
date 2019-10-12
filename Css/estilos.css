@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+/* 
+    Created on : Oct 8, 2019, 2:16:58 PM
+    Author     : Nehl
+*/
+
+#button {
+    background-color: rgb(97, 5, 92);
+}
+
+#livianos {
+    color: rgb(112, 20, 134);
+}
+
+#subLivianos {
+    color: rgb(165, 3, 57);
+}
+
+#pesados {
+    border-color: rgb(13, 155, 37);
+    color: rgb(red, rgb(43, 17, 85), blue);
+}
